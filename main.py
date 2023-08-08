@@ -1,7 +1,7 @@
 from pyrogram import Client
 
-api_id = 20222921
-api_hash = '591daec88281e6d1ba761b1367424b11'
+api_id = ...
+api_hash = ...
 
 app = Client('my_accaunt', api_id, api_hash)
 
